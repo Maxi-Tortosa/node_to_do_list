@@ -1,5 +1,7 @@
 require('colors');
 
+// Código reemplazado por la utilización de inquirer
+
 const mostrarMenu = () => {
 	console.clear();
 
